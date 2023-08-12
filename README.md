@@ -1,1 +1,1 @@
-# Operation-analytics-and-investigating-metric-spikes
+I used SQL queries to give the insights for the problems that were assigned. I used PopSQL throughout this project in-order to easily visualize the data and to write queries with ease. It was very helpful and user friendly by changing according to user preferences.
